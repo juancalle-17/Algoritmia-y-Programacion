@@ -1,0 +1,18 @@
+1. La Programación Orientada a Objetos (POO) es un paradigma
+de programación que organiza el código en objetos, los cuales repres
+entan entidades del mundo real (como una persona, un carro o una cuenta bancaria).
+
+2. 
+- Encapsulamiento
+- Abstraccion
+- Herencia
+- Polimorfismo
+
+3.
+- La clase permite crear múltiples objetos con características similares
+- La función solo ejecuta una tarea específica
+- La clase organiza datos y comportamiento juntos; la función generalmente trabaja de forma independiente
+
+4. El constructor (también llamado inicializador) es un método especial
+que se ejecuta automáticamente cuando se crea un objeto de una clase.
+Su función principal es inicializar los atributos del objeto.
